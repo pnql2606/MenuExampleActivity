@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MenuExampleActivity</string>
+    <string name="menu_red">RED</string>
+    <string name="menu_green">GREEN</string>
+</resources>
